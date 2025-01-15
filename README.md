@@ -40,3 +40,12 @@ oriented, and functional. I also like math.
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+
+## Stats
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wolf&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](#)
+
+### Top Languages (Pie Chart)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wolf&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21&layout=donut-vertical&langs_count=12)](#)
+
+
