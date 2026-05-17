@@ -43,9 +43,9 @@ oriented, and functional. I also like math.
 
 ## Stats
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wolf&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](#)
+[![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=cyan-wolf&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21)](#)
 
 ### Top Languages (Pie Chart)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyan-wolf&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21&layout=donut-vertical&langs_count=12)](#)
+[![Top Langs](https://kayan-github-profile-projects-featu.vercel.app/api/top-langs/?username=cyan-wolf&title_color=3174e7&text_color=37bc9c&icon_color=be90f2&bg_color=1d1f21&layout=donut-vertical&langs_count=12)](#)
 
 
